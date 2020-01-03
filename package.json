@@ -11,5 +11,8 @@
   "homepage": "https://github.com/stofi/vue-cli-plugin-boilerplate.git/#readme",
   "devDependencies": {
     "prettier": "^1.19.1"
+  },
+  "scripts": {
+    "test": "echo 'TODO: Implement tests.'"
   }
 }
