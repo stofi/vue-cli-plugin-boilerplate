@@ -7,7 +7,7 @@
       <router-view />
     </div>
     <div id="nav" class="text-center mt-auto text-xs">
-      <router-link class="Link" :to="{ name: 'index' }">Home</router-link> |
+      <router-link class="Link" :to="{ name: 'home' }">Home</router-link> |
       <router-link class="Link" :to="{ name: 'about' }">About</router-link>
     </div>
   </div>
