@@ -1,0 +1,10 @@
+.Button {
+  @apply bg-gray-800;
+  @apply rounded-sm;
+  padding: 0.1rem;
+}
+.Button:focus {
+  outline: none;
+  @apply outline-none;
+  box-shadow: 0.15rem 0.1rem 0 black;
+}

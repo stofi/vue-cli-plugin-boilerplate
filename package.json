@@ -1,0 +1,15 @@
+{
+  "name": "@stofi/vue-cli-plugin-boilerplate",
+  "version": "1.0.0",
+  "description": "vue-cli plugin boilerplate with tailwind and basic layout",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stofi/vue-cli-plugin-boilerplate.git"
+  },
+  "author": "Kryštof Rainisch <krystof@rainisch.net>",
+  "license": "MIT",
+  "homepage": "https://github.com/stofi/vue-cli-plugin-boilerplate.git/#readme",
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
