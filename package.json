@@ -1,6 +1,6 @@
 {
   "name": "@kurishutofu/vue-cli-plugin-boilerplate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "vue-cli plugin boilerplate with tailwind and basic layout",
   "repository": {
     "type": "git",
